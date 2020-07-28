@@ -75,3 +75,10 @@ In this paper a variety and assessment of different fiber optic-based diagnostic
 
 
 ## Fiber Optic Sensor for Electrical Parameters Assessment:
+
+Partial discharges(PDs) are electrical breakdown in weak region of an electrical insulation System.
+	1. PDS of the corona type: this will occur in the gas bubbles suspended oil.
+	2. PDs of the sparking type: this will happen in the liquid(oil) or solid(paper) phase
+	3. PDs of the surface type: this will occur in discharges on the outer surface of solid insulation.
+
+	
