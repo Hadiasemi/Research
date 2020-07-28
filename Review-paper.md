@@ -104,3 +104,5 @@ The important result of their experiment shows that phase-shifted fiber Bragg gr
 ### Electrical Breakdown Assessment:
 
 They developed fiber optic sensors based on setp index multimode polymer for monitoring transformer oil breakdown. The refractive index for a service age oil is higher than new oil and when the oil degrades the breakdown voltage decrease, and refractive index increase. By measuring the output voltage of optical fiber(immersed in oil) and level of oil contamination, they indicate the oil is new or old.
+
+### Current and Voltage Monitoring:
