@@ -10,7 +10,7 @@
 
 
 urlcolor: blue
-geometry: "left=1cm,right=1cm,top=2cm,bottom=2cm"
+geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 fontsize: 12pt
 
 header-includes:
@@ -76,9 +76,31 @@ In this paper a variety and assessment of different fiber optic-based diagnostic
 
 ## Fiber Optic Sensor for Electrical Parameters Assessment:
 
-Partial discharges(PDs) are electrical breakdown in weak region of an electrical insulation System.
-	1. PDS of the corona type: this will occur in the gas bubbles suspended oil.
-	2. PDs of the sparking type: this will happen in the liquid(oil) or solid(paper) phase
-	3. PDs of the surface type: this will occur in discharges on the outer surface of solid insulation.
+### Partial discharges:
 
-	
+Partial discharges(PDs) are electrical breakdown in weak region of an electrical
+insulation System.
+
+		1. PDs of the corona type: this will occur in the gas bubbles suspended oil.
+		2. PDs of the sparking type: this will happen in the liquid(oil) or solid(paper)
+		   phase
+		3. PDs of the surface type: this will occur in discharges on the outer
+		   surface of solid insulation.
+
+The fiber optic interferometers have high sensitivitys and large flat response range, but it is hard to multiplex.
+
+**Chen et al.** made an extrinsic fiber Fabry-Parot (FP) sensor for detecting
+PD acoustic emission. As a result, he could measure PD acoustic emission
+for both wide-band and narrowband mode.This emission, had the high amplitude
+between **50-170kHz** frequency range.
+
+**Wang et al.** made an optical fiber sensing probe to detect the ultrasonic signals of PD based  on linear Sagnac optical interferometry. The time-domain amplitude was 0.8-1.9V, and frequency response was 58kHz with 10kV voltage.
+
+**Zhou et al.** mentioned that in the Michelson ultrasonic sensor the sensitivity increased when the fiber coil get smaller to the range between 80-200kHz. The detection limit was 0.26Pa and distance between sensor's head and the ultrasonic sensor was 300mm in the oil.
+
+The important result of their experiment shows that phase-shifted fiber Bragg gratings(PS_FBG) has the higher frequency response (8.46db) compare to the ultrasonic sensor. The PD detection demonstrate that PS-FBG immersed in oil has sensitivity 17.5 times higher than zirconate titanate (PZT) sensor.  
+ They developed the fiber acoustic sensors array and installed into a real 35kV transformer. They also found out by PD localization they can get less than 5cm error in their design.
+
+### Electrical Breakdown Assessment:
+
+They developed fiber optic sensors based on setp index multimode polymer for monitoring transformer oil breakdown. The refractive index for a service age oil is higher than new oil and when the oil degrades the breakdown voltage decrease, and refractive index increase. By measuring the output voltage of optical fiber(immersed in oil) and level of oil contamination, they indicate the oil is new or old.
